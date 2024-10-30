@@ -1,0 +1,16 @@
+.mage-carousel.owl-carousel {
+  padding: 0;
+  margin: 20px 0;
+  list-style: none;
+}
+.mage-carousel.owl-theme .owl-nav [class*="owl-"] {
+  background: transparent;
+  border-radius: 0px;
+  color: #999;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 14px;
+  margin: 5px;
+  padding: 4px 7px;
+  border: 1px solid #ddd;
+}
